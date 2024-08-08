@@ -19,8 +19,8 @@ The goal of this project is to create very minimalistic way to run CMD-file, whi
 
 
 ## 🚀 Features & Usage
-- Select and execute any CMD-files (1)
-- Hide original GoodbyeDPI and CMD windows (2)
+- Select any CMD-files (1)
+- Execute any selected CMD-file. Make invisible CMD and original GoodbyeDPI windows (2)
 - Hide in tray (3)
 - Autorun after Windows startup/restart (4)
 
